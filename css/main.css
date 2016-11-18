@@ -22,7 +22,8 @@ html {
 .nav a {
   text-decoration: none;
   display: inline-block;
-  padding: 0.4em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
@@ -40,7 +41,8 @@ html {
   background-image: url("../images/banner.jpg");
   color: #fff;
   padding-top: 10em;
-  font-size:
+  background-size: 960px;
+  background-repeat: no-repeat;
 }
 
 .banner-content {
